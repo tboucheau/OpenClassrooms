@@ -1,0 +1,7 @@
+Faire le travail de la semaine
+stocker les fichier dans c:\Users\trois petit chat\OCR\
+(dans le répertoire correspondant au projet P1, P2, P3...)
+clic droit puis open git bash here
+git add .
+git commit -m "Travail de la semaine"
+git push
